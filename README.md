@@ -56,14 +56,13 @@
 
 ---
 
-## ⚡ Dynamic Tech Stack
+## ⚡ SKILLS
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,express,mongodb,html,css,git,linux,tailwind,bootstrap,postgres,docker,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,flask,html,css,js,react,nodejs,express,mongodb,git,tailwind,bootstrap,aws,gcp" />
   <br/>
   <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20AWS-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Fullstack-Development-blueviolet?style=for-the-badge"/>
 </div>
 
