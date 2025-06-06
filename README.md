@@ -51,7 +51,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Ask%20me%20about-MERN%20Stack%2C%20Python%2C%20ML%2C%20DS-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Languages-English%2C%20Telugu%2C%20Hindi-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hobbies-Chess%2C%20AI%20Exploration%2C%20Tech%20Blogs-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hobbies-Cricket%2C%20AI%20Exploration%2C%20Tech%20Blogs-yellow?style=for-the-badge"/>
 </div>
 
 ---
