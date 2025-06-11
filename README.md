@@ -30,7 +30,7 @@
 <tr>
 <td width="60%">
   <ul>
-    <li>🚀 <b>Fullstack Development Intern</b></li>
+    <li>🚀 <b>Fullstack Development</b></li>
     <li>🤖 <b>Machine Learning & Data Science Enthusiast</b></li>
     <li>💡 Building user-centric, intelligent solutions & web apps</li>
     <li>🌱 <b>Always Learning:</b> Latest Tech, Frameworks, & Tools</li>
